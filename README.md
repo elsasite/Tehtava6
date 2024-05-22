@@ -1,2 +1,2 @@
 # Tehtava6
-Webohjelmointikurssin Fullstack-harjoitus
+Webohjelmointikurssin Fullstack-harjoitus.
